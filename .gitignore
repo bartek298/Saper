@@ -1,0 +1,22 @@
+# --- PyCharm / JetBrains ---
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# --- Systemowe (opcjonalne) ---
+.DS_Store
+Thumbs.db
